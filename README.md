@@ -27,7 +27,7 @@ fastboot flash boot .\apatch_patched_10763_0.10.7_rume.img
 # 檢查
 - 檢查裝置完整性：[SPIC - Play Integrity Checker](https://play.google.com/store/apps/details?id=com.henrikherzig.playintegritychecker&pcampaignid=web_share)
 - 期望值：MEETS_DEVICE_INTEGRITY
-- [圖片](https://raw.githubusercontent.com/XiaoYu0708/Pixel-8-Pro-Root/refs/heads/main/1724427301837_100.png?token=GHSAT0AAAAAACUYQMIL5FM7FLRETPA6FOJGZXXVUTQ)
+![圖片](https://raw.githubusercontent.com/XiaoYu0708/Pixel-8-Pro-Root/refs/heads/main/1724427301837_100.png?token=GHSAT0AAAAAACUYQMIL5FM7FLRETPA6FOJGZXXVUTQ)
 
 # 工具
 - [MMRL](https://github.com/DerGoogler/MMRL)
