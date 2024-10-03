@@ -48,4 +48,4 @@ fastboot reboot
 ![圖片](https://github.com/XiaoYu0708/Pixel-8-Pro-Root/blob/main/1727954305455_100.PNG?raw=true)
 
 # 工具
-- [MMRL 模組管理工具](https://play.google.com/store/apps/details?id=com.dergoogler.mmrl)
+- [MMRL 模組管理工具](https://github.com/DerGoogler/MMRL)
