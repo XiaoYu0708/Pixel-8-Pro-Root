@@ -45,8 +45,8 @@ fastboot reboot
 
 # 檢查
 - 檢查裝置完整性：[SPIC - Play Integrity Checker](https://play.google.com/store/apps/details?id=com.henrikherzig.playintegritychecker&pcampaignid=web_share)
-- 期望值：MEETS_DEVICE_INTEGRITY
-![圖片](https://github.com/XiaoYu0708/Pixel-8-Pro-Root/blob/main/1724427301837_100.png?raw=true)
+- 期望值：MEETS_STRONG_INTEGRITY
+![圖片](https://github.com/XiaoYu0708/Pixel-8-Pro-Root/blob/main/1727954305455_100.PNG?raw=true)
 
 # 工具
 - [MMRL](https://github.com/DerGoogler/MMRL)
