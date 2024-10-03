@@ -28,12 +28,12 @@ fastboot reboot
 ```
 
 # 修補
+- [abootloop (預防載入模組後無法正常開機(Magisk 需要))](https://github.com/Magisk-Modules-Alt-Repo/abootloop)
 - [ZygiskNext (Zygisk的替代方案，KernelSU、APatch 需要，Magisk 於設定直接安裝 Zygisk)](https://github.com/Dr-TSNG/ZygiskNext)
 - [PlayIntegrityFix (修補 Google Pay)](https://github.com/chiteroman/PlayIntegrityFix)
 - [TrickyStore](https://github.com/5ec1cff/TrickyStore)
 - [TSupport](https://t.me/CitraIntegrityTrick/3)
 - [LSPosed_mod](https://github.com/mywalkb/LSPosed_mod)
-- [abootloop (預防載入模組後無法正常開機(Magisk 需要))](https://github.com/Magisk-Modules-Alt-Repo/abootloop)
 - [Magisk-iOS-Emoji](https://github.com/Keinta15/Magisk-iOS-Emoji)
 - [MiXplorer](https://github.com/Magisk-Modules-Alt-Repo/MiXplorer)
 
