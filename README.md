@@ -35,6 +35,7 @@ fastboot reboot
 - [LSPosed_mod](https://github.com/mywalkb/LSPosed_mod)
 - [abootloop (預防載入模組後無法正常開機)](https://github.com/Magisk-Modules-Alt-Repo/abootloop)
 - [Magisk-iOS-Emoji](https://github.com/Keinta15/Magisk-iOS-Emoji)
+- [MiXplorer](https://github.com/Magisk-Modules-Alt-Repo/MiXplorer)
 
 # Rooted (Root 之後) 系統更新
 - 教學：[參考連結](https://imum.me/posts/googlepixel8pro%E4%B9%8Broot%E5%90%8E%E6%AF%8F%E6%9C%88%E7%B3%BB%E7%BB%9F%E6%9B%B4%E6%96%B0/)
