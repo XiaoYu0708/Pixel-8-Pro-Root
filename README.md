@@ -33,7 +33,7 @@ fastboot reboot
 - [TrickyStore](https://github.com/5ec1cff/TrickyStore)
 - [TSupport](https://t.me/CitraIntegrityTrick/3)
 - [LSPosed_mod](https://github.com/mywalkb/LSPosed_mod)
-- [abootloop (預防載入模組後無法正常開機)](https://github.com/Magisk-Modules-Alt-Repo/abootloop)
+- [abootloop (預防載入模組後無法正常開機(Magisk 需要))](https://github.com/Magisk-Modules-Alt-Repo/abootloop)
 - [Magisk-iOS-Emoji](https://github.com/Keinta15/Magisk-iOS-Emoji)
 - [MiXplorer](https://github.com/Magisk-Modules-Alt-Repo/MiXplorer)
 
