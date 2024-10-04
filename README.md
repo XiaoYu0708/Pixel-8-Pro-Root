@@ -41,6 +41,12 @@ fastboot reboot
 - 下載：[Pixel Factory Images](https://developers.google.com/android/images#husky)
 - 下載 2：[RisingOS for Pixel 8 Pro](https://sourceforge.net/projects/risingos-for-husky/files/)
 - 注意：修改 falsh-all.bat 刪除 -w(不要刪除資料)
+
+或使用更新指令
+```powershell
+fastboot update file.zip
+```
+
 - 更新後按照原 Root 步驟安裝即可
 
 # 檢查
