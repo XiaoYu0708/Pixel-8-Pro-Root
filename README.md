@@ -49,3 +49,4 @@ fastboot reboot
 
 # 工具
 - [MMRL 模組管理工具](https://github.com/DerGoogler/MMRL)
+- [DataBackup 資料備份 APP](https://github.com/XayahSuSuSu/Android-DataBackup)
