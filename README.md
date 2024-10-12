@@ -2,7 +2,7 @@
 - 工具：[Magisk Github](https://github.com/topjohnwu/Magisk) / [KernelSU Github](https://github.com/tiann/KernelSU) / [APatch Github](https://github.com/bmax121/APatch)
 - 介紹：[Magisk 官網](https://topjohnwu.github.io/Magisk) / [KernelSU 官網](https://kernelsu.org/) / [APatch 官網](https://apatch.dev)
 - 參考：[YouTube](https://www.youtube.com/watch?v=uD6udMEMbPM)
-- 方法一：adb command -> 修補 boot.img (Magisk、APatch)
+- 方法一：adb command -> 修補 boot.img (APatch)
 ```powershell
 adb reboot bootloader 
 
