@@ -33,7 +33,7 @@ fastboot reboot
 - [PlayIntegrityFix (修補 Google Pay)](https://github.com/chiteroman/PlayIntegrityFix)
 - [playcurlNEXT](https://github.com/daboynb/playcurlNEXT)
 - [TrickyStore](https://github.com/5ec1cff/TrickyStore)
-- [TSupport](https://t.me/CitraIntegrityTrick/3)
+- [TSupport](https://t.me/citraintegritytrick)
 - [Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant)
 - [LSPosed_mod](https://github.com/mywalkb/LSPosed_mod)
 - [Magisk-iOS-Emoji](https://github.com/Keinta15/Magisk-iOS-Emoji)
