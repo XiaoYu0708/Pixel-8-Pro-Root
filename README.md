@@ -26,7 +26,7 @@ fastboot flash init_boot .\magisk_patched-27000_WEZ9s.img
 #重新啟動
 fastboot reboot
 ```
-- 方法三:KernelSU (GKI mode)
+- 方法三：KernelSU (GKI mode)
   - 手動修補 boot.img
     - 對於某些裝置來說，其 boot.img 格式並不是很常見，不屬於 lz4，gz 和未壓縮；最典型的就是 Pixel，它的 boot.img 格式是 lz4_legacy 壓縮，ramdisk 可能是 gz 也可能是 lz4_legacy 壓縮；此時如果您直接寫入 KernelSU 提供的 boot.img，手機可能無法開機。這時，您可以透過手動修補 boot.img 來完成。
   - 準備
@@ -50,7 +50,7 @@ fastboot reboot
     ./magiskboot unpack boot.img
     ```
     - 此時會將 boot.img 解除封裝，得到一個名為 kernel 的檔案，這個檔案是您的原廠核心。
-    - 使用 Image 取代 kernel:
+    - 使用 Image 取代 kernel：
     ```shell
     mv -f Image kernel
     ```
