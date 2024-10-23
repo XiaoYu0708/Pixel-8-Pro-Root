@@ -78,6 +78,7 @@ fastboot reboot
 - [TSupport](https://t.me/citraintegritytrick)
 - [Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant)
 - [LSPosed_mod](https://github.com/mywalkb/LSPosed_mod)
+- [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
 - [Magisk-iOS-Emoji](https://github.com/Keinta15/Magisk-iOS-Emoji)
 
 # Rooted (Root 之後) 系統更新
