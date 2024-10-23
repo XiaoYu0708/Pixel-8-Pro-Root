@@ -110,7 +110,7 @@ fastboot reboot
 - [PlayIntegrityFix (修補 Google Pay)](https://github.com/chiteroman/PlayIntegrityFix)
 - [playcurlNEXT](https://github.com/daboynb/playcurlNEXT)
 - [TrickyStore](https://github.com/5ec1cff/TrickyStore)
-- [TSupport](https://github.com/Citra-Standalone/TSupport-Advance)
+- [TSupport](https://github.com/Citra-Standalone/TSP)
 - [Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant)
 - [LSPosed](https://github.com/JingMatrix/LSPosed)
 - [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
