@@ -51,6 +51,10 @@ fastboot reboot
     ```
     - adb shell 進入 `/data/local/tmp/` 目錄，執行：
     ```shell
+    adb shell
+    
+    cd /data/local/tmp/
+    
     ./magiskboot unpack boot.img
     ```
     - 此時會將 boot.img 解除封裝，得到一個名為 kernel 的檔案，這個檔案是您的原廠核心。
@@ -61,12 +65,18 @@ fastboot reboot
     - 執行
     ```shell
     ./magiskboot repack boot.img
+    exit
     ```
     - 重新封裝映像，此時您會得到一個 `new-boot.img` 檔案，透過 Fastboot 將這個檔案寫入至裝置即可。
     ```shell
     adb pull /data/local/tmp/new-boot.img ./new-boot.img
     adb reboot bootloader
+    
+    #刷入修改後的 boot.img 檔案
     fastboot flash boot new-boot.img
+    
+    #重新啟動
+    fastboot reboot
     ```
     
 # 修補
