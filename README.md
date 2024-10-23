@@ -112,7 +112,7 @@ fastboot reboot
 - [TrickyStore](https://github.com/5ec1cff/TrickyStore)
 - [TSupport](https://t.me/citraintegritytrick)
 - [Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant)
-- [LSPosed_mod](https://github.com/mywalkb/LSPosed_mod)
+- [LSPosed](https://github.com/JingMatrix/LSPosed)
 - [Shamiko](https://github.com/LSPosed/LSPosed.github.io/releases)
 - [Magisk-iOS-Emoji](https://github.com/Keinta15/Magisk-iOS-Emoji)
 
