@@ -42,8 +42,8 @@ fastboot reboot
     ```
     - 使用 Adb 將原廠 boot.img 和 AnyKernel3 中的 Image 推入至手機。
     ```shell
-    adb push C:\Users\XiaoYu\Downloads\boot.img /data/local/tmp/boot.img
-    adb push C:\Users\XiaoYu\Downloads\Image /data/local/tmp/Image
+    adb push boot.img /data/local/tmp/boot.img
+    adb push Image /data/local/tmp/Image
     ```
     - adb shell 進入 /data/local/tmp/ 目錄，然後賦予先前推入的檔案可執行權限
     ```shell
