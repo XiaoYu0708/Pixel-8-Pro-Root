@@ -31,7 +31,7 @@ fastboot reboot
     - 對於某些裝置來說，其 boot.img 格式並不是很常見，不屬於 lz4，gz 和未壓縮；最典型的就是 Pixel，它的 boot.img 格式是 lz4_legacy 壓縮，ramdisk 可能是 gz 也可能是 lz4_legacy 壓縮；此時如果您直接寫入 KernelSU 提供的 boot.img，手機可能無法開機。這時，您可以透過手動修補 boot.img 來完成。
   - 準備
     - 取得手機的原廠 `boot.img`
-    - 下載 KernelSU 提供的與您的裝置 KMI 一致的 AnyKernel3 Zip 檔 [(可參閱使用自訂 Recovery 安裝)](https://kernelsu.org/zh_TW/guide/installation.html#install-with-custom-recovery)。
+    - 下載 KernelSU 提供的與您的裝置 KMI 一致的 [AnyKernel3 Zip](https://github.com/tiann/KernelSU/releases) 檔 [(可參閱使用自訂 Recovery 安裝)](https://kernelsu.org/zh_TW/guide/installation.html#install-with-custom-recovery)。
     - 解壓縮 AnyKernel3 Zip 檔，取得其中的 `Image` 檔，此檔案為具有 KernelSU 的核心。
   - 在 Android 上使用 magiskboot
     - 在 Magisk 的 [Release](https://github.com/topjohnwu/Magisk/releases) 頁面 下載最新的 Magisk。
