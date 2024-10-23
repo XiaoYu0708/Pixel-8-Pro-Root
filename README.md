@@ -41,6 +41,10 @@ fastboot reboot
       adb push Magisk_*/lib/arm64-v8a/libmagiskboot.so /data/local/tmp/magiskboot
     ```
     - 使用 Adb 將原廠 boot.img 和 AnyKernel3 中的 Image 推入至手機。
+    ```shell
+    adb push C:\Users\XiaoYu\Downloads\boot.img /data/local/tmp/boot.img
+    adb push C:\Users\XiaoYu\Downloads\Image /data/local/tmp/Image
+    ```
     - adb shell 進入 /data/local/tmp/ 目錄，然後賦予先前推入的檔案可執行權限
     ```shell
     chmod +x magiskboot
@@ -59,6 +63,11 @@ fastboot reboot
     ./magiskboot repack boot.img
     ```
     - 重新封裝映像，此時您會得到一個 `new-boot.img` 檔案，透過 Fastboot 將這個檔案寫入至裝置即可。
+    ```shell
+    adb pull /data/local/tmp/new-boot.img ./new-boot.img
+    adb reboot bootloader
+    fastboot flash boot new-boot.img
+    ```
     
 # 修補
 - [abootloop (預防載入模組後無法正常開機(Magisk 需要))](https://github.com/Magisk-Modules-Alt-Repo/abootloop)
