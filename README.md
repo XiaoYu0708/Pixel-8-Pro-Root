@@ -124,6 +124,7 @@ fastboot reboot
 ## 方法二 OTA Update (sideload)
 - 下載：[Pixel OTA Images](https://developers.google.com/android/ota#husky)
 - 刷入：adb sideload ota.zip
+- 更新後按照原 Root 步驟安裝即可
 # 檢查
 - 檢查裝置完整性：[SPIC - Play Integrity Checker](https://play.google.com/store/apps/details?id=com.henrikherzig.playintegritychecker&pcampaignid=web_share)
 - 期望值：MEETS_STRONG_INTEGRITY
