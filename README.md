@@ -109,6 +109,7 @@ fastboot reboot
 - [ZygiskNext (Zygisk的替代方案，KernelSU、APatch 需要，Magisk 於設定直接安裝 Zygisk)](https://github.com/Dr-TSNG/ZygiskNext)
 - [Play Integrity Fix (修補 Google Pay)](https://github.com/chiteroman/PlayIntegrityFix)
 - [playcurlNEXT](https://github.com/daboynb/playcurlNEXT)
+- [Tsupport](t.me/CitraIntegrityTrick)
 - [TrickyStore](https://github.com/5ec1cff/TrickyStore)
 - [Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant)
 - [LSPosed](https://github.com/JingMatrix/LSPosed)
